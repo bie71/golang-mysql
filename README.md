@@ -32,4 +32,4 @@ Sebelum menjalankan aplikasi ini, pastikan Anda telah menginstal:
 1. **Clone repositori ini**:
    ```bash
    git clone https://github.com/bie71/golang-mysql.git
-   cd repo-name
+   cd golang-mysql
